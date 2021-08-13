@@ -24,8 +24,6 @@ In future, dynamic simulations of configuration changes could proactively sugges
 - Feature engineering to generate new variables, including synthetic usage statistics used in projections
 - Experimented with several regression models: Multiple linear regression, decision tree, random forest, xgboost regressor
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ### 4. Outlook
 
