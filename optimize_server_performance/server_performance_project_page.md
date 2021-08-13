@@ -1,7 +1,6 @@
-**Project description:** 
+Many companies rely on VMWare NUMA's advanced server platforms to run their business applications. Default settings can lead to misconfigurations of the server settings and thus inflated server costs. 
 
-Many companies rely on VMWare NUMA's advanced server platforms to run their business applications. 
-Default settings can lead to misconfigurations of the server settings and thus inflated server costs. But most companies don't know in advance which misconfigurations will reduce costs enough to justify the time and costs of a fix.
+But most companies don't know in advance which misconfigurations will reduce costs enough to justify the time and costs of a fix.
 
 
 ### 1. Hypothesis
@@ -33,4 +32,7 @@ Modelling notebooks [latest version of the python notebook here] (/mpno_simple_v
 If the pilot project proves successful, our partner will propose further development to additional clients.
 
 The best models in the first phase of the project had explained variance scores in the .80-.85 range. The next steps include further testing of these models against a variety of use cases, as well as additional model optimimization.
+
+Additional details: 
+[Propulsion DS Capstone Project Presentation - CodeNotary] (2021%2004%20-%20Propulsion%20DS%20Capstone%20Project%20-%20Codenotary.pdf)
 
