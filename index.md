@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Modelling NUMA server costs](/optimize_server_performance/server_performance_project_page.md)
+<img src="optimize_server_performance/simple_rf_model_predicted_v_actual.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
