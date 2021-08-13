@@ -11,23 +11,12 @@ Machine learning could help operations teams to reduce server costs and downtime
 The immediate objective, case-specific predictions, could help operations teams to estimate the impact of investments in reconfiguration in order to better prioritize maintenance spending. 
 In future, dynamic simulations of configuration changes could proactively suggest configuration changes as well.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 2. Assumptions 
 
 - Sufficient data to capture the shifting relationships between configurations settings, usage trends, and different system architectures/versions. Somne may be easier to model than others.
 - Key drivers are represented in the available data sets.
 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Statistical tools and techniques
 
@@ -38,6 +27,6 @@ if (isAwesome){
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-### 4. Provide a basis for further data collection
+### 4. Outlook
 
-If the pilot project prioves successful, we will propose further development with additional organizations.
+If the pilot project prioves successful, our partner will propose further development to additional clients.
