@@ -20,7 +20,11 @@ In future, dynamic simulations of configuration changes could proactively sugges
 
 ### 3. Statistical tools and techniques
 
+Data processing [latest version of the python code here] (/optimize_server_performance/anonymized_data_processing.html)
 - Aggregation of data from reporting and logging
+- Merge data from different sources (logging from hosts vs. virtual machines)
+
+Modelling notebooks [latest version of the python notebook here] (/optimize_server_performance/mpno_simple_vm-host_models-vm-environment4-v2.html)
 - Feature engineering to generate new variables, including synthetic usage statistics used in projections
 - Experimented with several regression models: Multiple linear regression, decision tree, random forest, xgboost regressor
 
