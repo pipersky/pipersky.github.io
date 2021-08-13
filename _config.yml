@@ -1,11 +1,10 @@
 title: Maritsa Norton # your name (or website title) here
+<img src="/images/bw_profile_photo.jpg?raw=true" alt="drawing" width="200"/>
 logo: "/images/bw_profile_photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a passionate advocate for informed decision-making. 
-  I develop and support data-driven insights, in partnership with product/marketing/devops/finance teams. 
-  I use data science and common sense to craft simple solutions to complex problems.
+  I'm a passionate advocate for informed decision-making. I use data science and common sense to craft simple solutions to complex problems.
   <br><br>
-  Second description 
+# Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/maritsa-norton/">View My LinkedIn Profile</a> 
   
