@@ -5,6 +5,7 @@
 ### Data Science Projects
 
 [Modelling NUMA server costs](/optimize_server_performance/server_performance_project_page.md)
+<br>
 <img src="optimize_server_performance/simple_rf_model_predicted_v_actual.png"/>
 
 ---
