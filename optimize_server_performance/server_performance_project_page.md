@@ -1,6 +1,6 @@
-Many companies rely on VMWare NUMA's advanced server platforms to run their business applications. Default settings can lead to misconfigurations of the server settings and thus inflated server costs. 
+Many organizations rely on VMWare NUMA's advanced server platforms to run their business applications. Default settings can lead to misconfigurations of the server settings and thus inflated server costs. 
 
-But most companies don't know in advance which misconfigurations will reduce costs enough to justify the time and costs of a fix.
+But most IT/Operations teams don't know in advance which misconfigurations will reduce costs enough to justify the time and costs of a fix.
 
 
 ### 1. Hypothesis
