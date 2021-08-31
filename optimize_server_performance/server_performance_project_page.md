@@ -22,7 +22,7 @@ Data processing [latest version of the python code here] (/anonymized_data_proce
 - Aggregation of data from reporting and logging
 - Merge data from different sources (logging from hosts vs. virtual machines)
 
-Modelling notebooks [latest version of the python notebook here] (/mpno_simple_vm-host_models-vm-environment4-v2.html)
+Modelling notebooks [latest version of the python notebook here] (/optimize_server_performance/mpno_simple_vm-host_models-vm-environment4-v2.html)
 - Feature engineering to generate new variables, including synthetic usage statistics used in projections
 - Experimented with several regression models: Multiple linear regression, decision tree, random forest, xgboost regressor
 
@@ -33,6 +33,7 @@ If the pilot project proves successful, our partner will propose further develop
 
 The best models in the first phase of the project had explained variance scores in the .80-.85 range. The next steps include further testing of these models against a variety of use cases, as well as additional model optimimization.
 
-Additional details: 
-[Propulsion DS Capstone Project Presentation - CodeNotary] (2021%2004%20-%20Propulsion%20DS%20Capstone%20Project%20-%20Codenotary.pdf)
+Additional documentation: 
+[Propulsion DS Capstone Project Presentation - CodeNotary] (optimize_server_performance/2021%2004%20-%20Propulsion%20DS%20Capstone%20Project%20-%20Codenotary.pdf)
+
 
