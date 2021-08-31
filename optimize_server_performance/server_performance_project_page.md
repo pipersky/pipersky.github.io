@@ -18,7 +18,7 @@ Market research indicates that there is no known commercial solution, so any pre
 
 ### 3. Statistical tools and techniques
 
-Data processing [latest version of the python code here](/anonymized_data_processing.html)
+Data processing [latest version of the python code here](/optimize_server_performance/anonymized_data_processing.html)
 - Aggregation of data from reporting and logging
 - Merge data from different sources (logging from hosts vs. virtual machines)
 
