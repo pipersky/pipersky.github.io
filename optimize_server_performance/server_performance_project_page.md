@@ -34,6 +34,6 @@ If the pilot project proves successful, our partner will propose further develop
 The best models in the first phase of the project had explained variance scores in the .80-.85 range. The next steps include further testing of these models against a variety of use cases, as well as additional model optimimization.
 
 Additional documentation: 
-[Propulsion DS Capstone Project Presentation - CodeNotary] (optimize_server_performance/2021%2004%20-%20Propulsion%20DS%20Capstone%20Project%20-%20Codenotary.pdf)
+[Propulsion DS Capstone Project Presentation - CodeNotary] (https://drive.google.com/file/d/100MUDqH8zv30wp5i2Xdw_73-_KjbYaeJ/view?usp=sharing)
 
 
